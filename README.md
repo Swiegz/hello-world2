@@ -1,2 +1,3 @@
 # hello-world2
-learning repository
+learning reposit
+I am learning GitHub
